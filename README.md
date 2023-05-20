@@ -1,2 +1,1 @@
-# urdfCParser
-Urdf file parser in C
+# URDF C Parser
